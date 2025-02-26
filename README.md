@@ -58,3 +58,6 @@ Follow the on-screen prompts to create users, manage tasks, and organize them us
 - **prettytable**: Display tabular data in CLI
 - **termcolor**: Add colors to CLI output
 - **inquirer**: Interactive command-line prompts
+
+## 🎯 Screenshots
+![Image](https://github.com/user-attachments/assets/e364f2d6-a5a5-4004-ae0c-ab0c2fa33e61)
